@@ -1,0 +1,7 @@
+../Core/Src/A4988_Control.c:11:6:A4988_Init	1
+../Core/Src/A4988_Control.c:17:6:A4988_Reset	1
+../Core/Src/A4988_Control.c:25:6:A4988_Start	1
+../Core/Src/A4988_Control.c:29:6:A4988_Stop	1
+../Core/Src/A4988_Control.c:33:6:A4988_Control	4
+../Core/Src/A4988_Control.c:51:6:A4988_Set_Speed	6
+../Core/Src/A4988_Control.c:76:10:MAP	1
